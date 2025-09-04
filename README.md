@@ -7,13 +7,9 @@ NearbyNow is a local discovery app (events, deals, experiences). This repo conta
 Open the interactive Figma prototype: <https://www.figma.com/design/yF3GW8yrMlu2hIZoTy7LTE/Untitled?node-id=15-85&m=dev&t=ysEmSkwenSWPjZIi-1>
 
 **Demo page (GitHub Pages)**  
-Public demo: https://YOUR_USERNAME.github.io/nearbynow-signup-flow/
+Public demo: https://sakshighorpade178.github.io/nearbynow-signup-flow/
 
-**Files included**
-- `assets/` — exported screens and logo
-- `styles.pdf` — color, typography, spacing, components
-- `index.html` — simple demo page
-- `prototype.mp4` — short walkthrough (optional)
+
 
 **How to run locally**
 1. Clone the repo  
